@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">store</string>
+    <string name="produtos">Produtos</string>
+    <string name="pedido">Pedido</string>
+    <string name="cliente">Cliente</string>
+    <string name="quantidade_do_produto">Quantidade do produto</string>
+    <string name="o_produto_precisa_ser_selecionado">O produto precisa ser selecionado!!</string>
+    <string name="o_cliente_precisa_ser_selecionado">O Cliente precisa ser selecionado!!</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="produto">produto</string>
+    <string name="Produto">Produto</string>
+    <string name="quantidade_de_parcelas">Quantidade de Parcelas</string>
+    <string name="a_prazo">A Prazo</string>
+    <string name="vista">À Vista</string>
+</resources>
